@@ -8,5 +8,5 @@ class Cat
 end
 end
 
-kanye = Cat.new
-kanye.meow
+#kanye = Cat.new
+#kanye.meow
